@@ -15,7 +15,7 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
 - Schedule: ~2 hours/day, 6 days/week → ~115 hours total  
 - Leeway: 1-2 weeks for review and practice  
 - Outcome: Write basic drone control algorithms in C/C++ and Python  
-- **Cost:** Udemy courses (~$100 total) or free alternatives  
+- **Cost:** Udemy courses (~£52 total for Personal Membership)
 
 ---
 
@@ -24,17 +24,17 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
 **Goal:** Assemble hardware and prepare software environment.
 
 - Hardware:  
-  - Tarot 680 Pro frame (carbon fiber) - ~$200  
-  - T-Motor 2216 900KV motors (x4) - ~$300  
-  - Pixhawk 6X flight controller - ~$400  
-  - Raspberry Pi 4B 8GB + accessories - ~$100  
-  - RTK GPS module - ~$350  
-  - LiDAR sensor (e.g., RPLidar A1 or similar) - ~$100-$150  
-  - ESCs (30A) and battery (4S 5000mAh LiPo) - ~$200  
-  - Miscellaneous (cables, connectors, mounts) - ~$50  
+  - Tarot 680 Pro frame (carbon fiber) - ~£100  
+  - T-Motor 2216 900KV motors (x4) - ~£40  
+  - Pixhawk 6X flight controller - ~£100  
+  - Raspberry Pi 4B 8GB + accessories - ~£80  
+  - RTK GPS module - ~£60  
+  - LiDAR sensor (e.g., RPLidar A1 or similar) - ~£30  
+  - ESCs (30A) and battery (4S 5000mAh LiPo) - ~£50  
+  - Miscellaneous (cables, connectors, mounts) - ~£50  
 - Software: PX4, ROS2 (free/open-source)  
 - Outcome: Ready-to-fly drone hardware and dev environment  
-- **Estimated Hardware Cost:** ~$1,700  
+- **Estimated Hardware Cost:** ~£510
 
 ---
 
@@ -63,7 +63,7 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
   - Implement GPS-denial fallback (SLAM)  
   - Test in Gazebo + indoor flights  
 - Possible additional cost:  
-  - Higher-end LiDAR or camera upgrades - ~$200 (optional)  
+  - Higher-end LiDAR or camera upgrades - ~£100 (optional)  
 - Outcome: Safe autonomous navigation with obstacle avoidance  
 
 ---
@@ -76,7 +76,7 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
   - Manual and autonomous flight testing  
   - Battery endurance and failsafe tuning  
   - Data logging and analysis  
-- Possible replacements/repairs: batteries, props - ~$100  
+- Possible replacements/repairs: batteries, props - £50  
 - Outcome: Reliable outdoor autonomous flights  
 
 ---
@@ -88,7 +88,7 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
 - Tasks:  
   - Complete README, logs, and presentations  
   - Record video demos  
-- Cost: Minimal, possible video editing software (~$0-$50)  
+- Cost: Minimal, possible video editing software (~£0-£20)  
 
 ---
 
@@ -96,13 +96,13 @@ This roadmap outlines the key milestones and learning goals aligned with buildin
 
 | Phase                | Estimated Cost (USD)     |
 |----------------------|-------------------------|
-| 0: Skill Building    | $100 (courses)           |
-| 1: Hardware Setup    | $1,700                   |
-| 2: Firmware Dev      | $0                       |
-| 3: Advanced Sensors  | $200 (optional upgrades) |
-| 4: Field Testing     | $100 (consumables)       |
-| 5: Documentation     | $0-$50                   |
-| **Total Estimated**  | **~$2,100 - $2,150**     |
+| 0: Skill Building    | £52 (courses)           |
+| 1: Hardware Setup    | £510                   |
+| 2: Firmware Dev      | £0                       |
+| 3: Advanced Sensors  | £100 (optional upgrades) |
+| 4: Field Testing     | £50 (consumables)       |
+| 5: Documentation     | £0-£20                   |
+| **Total Estimated**  | **~£712 - £732**     |
 
 ---
 
